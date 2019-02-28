@@ -1,0 +1,24 @@
+sudo apt install ipython
+sudo apt install unetbootin
+sudo apt install extlinux
+sudo apt install powertop
+sudo apt install xclip
+sudo apt install xsel
+sudo apt install python-pip
+sudo apt install htop
+sudo apt install rancid
+sudo apt install ansible
+sudo apt install multitail
+sudo apt install telegram
+sudo apt install kismet
+sudo apt install iptraf
+sudo apt install iptstate
+sudo apt install nethogs
+sudo apt install iftop
+sudo apt install iotop
+sudo apt install atop
+sudo apt install tcpdump
+sudo apt install ncdu
+sudo apt install zsh
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+
