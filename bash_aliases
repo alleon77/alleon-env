@@ -17,6 +17,8 @@ alias df='df -kTh'
 alias ping='ping -O'
 alias ping8='ping -O 8.8.8.8'
 
+alias ntri='sudo traceroute -I'
+
 alias powertop-auto='sudo powertop --auto-tune'
 
 alias mc='TERM=xterm-256color mc -S modarin256'
