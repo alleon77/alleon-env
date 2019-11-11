@@ -1,24 +1,30 @@
-sudo apt install ipython
-sudo apt install unetbootin
-sudo apt install extlinux
-sudo apt install powertop
-sudo apt install xclip
-sudo apt install xsel
-sudo apt install python-pip
-sudo apt install htop
-sudo apt install rancid
-sudo apt install ansible
-sudo apt install multitail
-sudo apt install telegram
-sudo apt install kismet
-sudo apt install iptraf
-sudo apt install iptstate
-sudo apt install nethogs
-sudo apt install iftop
-sudo apt install iotop
-sudo apt install atop
-sudo apt install tcpdump
-sudo apt install ncdu
-sudo apt install zsh
-wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
-
+sudo apt install -y ipython
+sudo apt install -y unetbootin
+sudo apt install -y extlinux
+sudo apt install -y powertop
+sudo apt install -y xclip
+sudo apt install -y xsel
+sudo apt install -y python-pip
+sudo apt install -y htop
+sudo apt install -y rancid
+sudo apt install -y multitail
+sudo apt install -y telegram
+sudo apt install -y kismet
+sudo apt install -y iptraf
+sudo apt install -y iptstate
+sudo apt install -y nethogs
+sudo apt install -y iftop
+sudo apt install -y iotop
+sudo apt install -y atop
+sudo apt install -y tcpdump
+sudo apt install -y ncdu
+sudo apt install -y zsh
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install -y.sh -O - | zsh
+sudo apt install -y vim
+sudo apt install -y guake
+sudo apt install -y copyq
+sudo apt install -y traceroute
+sudo apt install -y openconnect
+sudo apt install -y tree
+sudo apt install -y doublecmd-gtk
+sudo apt install -y tmux
