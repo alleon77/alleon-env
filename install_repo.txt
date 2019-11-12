@@ -1,9 +1,11 @@
  sudo apt install -y software-properties-common
- sudo apt-add-repository --yes ppa:ansible/ansible
- sudo apt update
- sudo apt install -y ansible
 
-
+sudo apt-add-repository --yes ppa:ansible/ansible
+sudo add-apt-repository --yes ppa:notepadqq-team/notepadqq
 sudo add-apt-repository --yes ppa:hluk/copyq
+
 sudo apt update
+
 sudo apt install -y copyq
+sudo apt-get install notepadqq
+sudo apt install -y ansible
