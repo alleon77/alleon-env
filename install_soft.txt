@@ -29,4 +29,5 @@ sudo apt install -y tree
 sudo apt install -y doublecmd-gtk
 sudo apt install -y tmux
 sudo apt install -y fdupes
+sudo apt install -y nmap
 
