@@ -16,10 +16,12 @@ alias df='df -kTh'
 
 alias ping='ping -O'
 alias ping8='ping -O 8.8.8.8'
-alias p='ping'
+alias p='ping -O'
 
 alias ntri='sudo traceroute -I'
 alias t='traceroute'
+
+alias eg='egrep'
 
 alias powertop-auto='sudo powertop --auto-tune'
 
