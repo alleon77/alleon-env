@@ -9,7 +9,6 @@ sudo apt install -y htop
 sudo apt install -y rancid
 sudo apt install -y multitail
 sudo apt install -y telegram
-sudo apt install -y kismet
 sudo apt install -y iptraf
 sudo apt install -y iptstate
 sudo apt install -y nethogs
@@ -31,4 +30,9 @@ sudo apt install -y tmux
 sudo apt install -y fdupes
 sudo apt install -y nmap
 sudo apt install -y subnetcalc
+sudo apt install -y vlc
+sudo apt install -y mocp
+sudo apt install -y minicom
+sudo apt install -y notepadqq
+sudo apt install -y ansible
 
