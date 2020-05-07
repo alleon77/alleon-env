@@ -18,7 +18,7 @@ sudo apt install -y atop
 sudo apt install -y tcpdump
 sudo apt install -y ncdu
 sudo apt install -y zsh
-wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install -y.sh -O - | zsh
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 sudo apt install -y vim
 sudo apt install -y guake
 sudo apt install -y copyq
