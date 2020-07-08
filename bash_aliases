@@ -17,6 +17,7 @@ alias df='df -kTh'
 alias ping='ping -O'
 alias ping8='ping -O 8.8.8.8'
 alias p='ping -O'
+alias p8='ping -O 8.8.4.4'
 
 alias ntri='sudo traceroute -I'
 alias t='traceroute'
