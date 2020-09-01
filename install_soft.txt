@@ -37,4 +37,5 @@ sudo apt install -y mocp
 sudo apt install -y minicom
 sudo apt install -y notepadqq
 sudo apt install -y ansible
+sudo apt install -y tldr
 
