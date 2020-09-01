@@ -1,5 +1,11 @@
 ## alias
 
+if [ -f ~/alleon-env/bash_aliasesi_my ]; then
+    . ~/alleon-env/bash_aliases_my
+fi
+
+
+
 #-------------------------------------------------------------
 #  aliases
 #-------------------------------------------------------------
@@ -54,4 +60,6 @@ alias mytmux='tmux a -d || tmux -2 -u'
 alias screen='mytmux'
 
 alias cls='clear'
+
+alias mocp='mocp -T darkdot_theme'
 
