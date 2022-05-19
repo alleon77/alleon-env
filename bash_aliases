@@ -64,3 +64,5 @@ alias cls='clear'
 
 alias mocp='mocp -T darkdot_theme'
 
+alias nmap-ping='nmap -sn'
+alias dig='dig +noall +answer'
