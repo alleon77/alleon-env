@@ -1,8 +1,8 @@
 ## alias
 
-if [ -f ~/alleon-env/bash_aliasesi_my ]; then
-    . ~/alleon-env/bash_aliases_my
-fi
+##  if [ -f ~/alleon-env/bash_aliases_my ]; then
+##      . ~/alleon-env/bash_aliases_my
+##  fi
 
 
 
@@ -68,4 +68,3 @@ alias nmap-ping='nmap -sn'
 alias dig='dig +noall +answer'
 alias dig6='dig AAAA +noall +answer'
 
-alias oooo='ooooooo'
