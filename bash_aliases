@@ -69,3 +69,6 @@ alias nmap-ping='nmap -sn'
 alias dig='dig +noall +answer'
 alias dig6='dig AAAA +noall +answer'
 
+alias myextip='curl ifconfig.co'
+alias wspb='curl wttr.in/Saint-Petersburg'
+
